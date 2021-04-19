@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-19T09:28:45+08:00</updated><id>/feed.xml</id><entry><title type="html">Describe Your Task as a Software Developer</title><link href="/2021/03/31/blog/" rel="alternate" type="text/html" title="Describe Your Task as a Software Developer" /><published>2021-03-31T00:00:00+08:00</published><updated>2021-03-31T00:00:00+08:00</updated><id>/2021/03/31/blog</id><content type="html" xml:base="/2021/03/31/blog/">&lt;p&gt;&lt;img src=&quot;/assets/images/2021.3.31.blog.cover.webp&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;desktop__size &quot; style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+    &lt;h2&gt;Describe Your Task as a Software Developer&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mobile__size &quot; style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+    &lt;h2&gt;Describe Your Task as a Software Developer&lt;/h2&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;small class=&quot;text-muted&quot;&gt;
+          &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+        &lt;/small&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        By Edison Pebojot
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        31 March 2021
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;
+        &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-color-scheme=&quot;no-preference: light; light: light; dark: light;&quot; data-size=&quot;large&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;small class=&quot;text-muted&quot;&gt;
+                &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+            &lt;/small&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            By Edison Pebojot
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center flex-grow-1&quot;&gt;
+            03/31/2021
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a class=&quot;github-button align-self-center&quot; href=&quot;https://github.com/workpebojot&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+    &lt;p&gt;
+      What do you do when you first get the data from your users? I wrote a blog post about how to get requirements at &lt;a href=&quot;https://www.pebojot.com/2021/03/29/blog/&quot;&gt;The Basics of Software Requirement Gathering&lt;/a&gt;, but what do you do when you get the data from your users?
+    &lt;/p&gt;
+    &lt;p&gt;
+        You'll need to decide what you're going to make once you've decided what product you need to make. What exactly is it? You must decide what you will do because this will serve as a means of communication with your team, allowing you to fully comprehend the problem and write a solution in the code. &lt;a href=&quot;https://en.wikipedia.org/wiki/User_story&quot; target=&quot;_blank&quot;&gt;User stories&lt;/a&gt; have become almost synonymous with &lt;a href=&quot;https://en.wikipedia.org/wiki/Agile_software_development&quot; target=&quot;_blank&quot;&gt;agile&lt;/a&gt; in many teams, though non-agile user stories also exist. From the perspective of your users, user stories represent what will be a new feature of a system. This is how you usually write them:
+    &lt;/p&gt;
+    &lt;p style=&quot;background-color: #D9D9D6;&quot; class=&quot;p-1&quot;&gt;
+        &lt;b&gt;As &lt;i&gt;someone&lt;/i&gt;, I'd like &lt;i&gt;to do something&lt;/i&gt;. In order for me to &lt;i&gt;achieve something&lt;/i&gt;&lt;/b&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;a href=&quot;https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development&quot; target=&quot;_blank&quot;&gt;Hypothesis-driven development&lt;/a&gt;, or an &lt;i&gt;ad-hoc approach&lt;/i&gt; like writing on the back of an index card, is another option. Consider the following scenario:
+    &lt;/p&gt;
+    &lt;p style=&quot;background-color: #D9D9D6;&quot; class=&quot;p-1&quot;&gt;
+        &lt;b&gt;&lt;i&gt;As a user, I'd like to create an account. In order for me to be able to check out faster the next time.&lt;/i&gt;&lt;/b&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        Now comes the big question: is it really necessary for the user to check more quickly? Irrational user stories should be avoided. You might even lose interest in your effort now that they don't need to check it right away. If they do this, the user story above might make sense:
+    &lt;/p&gt;
+    &lt;p style=&quot;background-color: #D9D9D6;&quot; class=&quot;p-1&quot;&gt;
+        &lt;b&gt;&lt;i&gt;[1] As a business, [2] I'd like to create an account. [3] In order for me to learn more about my customers, and because customers with accounts are more likely to return to the app, according to research.&lt;/i&gt;&lt;/b&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        Unreasonable user stories often occur in number 3. This line is difficult to write because the content still needs quite a bit of explanation. Number 2 depends on your team's discussion. The phrase &lt;i&gt;As a user&lt;/i&gt; is one of the indicators of irrational user stories. The first line above can not be applied to another user because users's needs are different. It's critical to know the difference between them when designing a user-friendly product. It's also a good idea to create a &lt;a href=&quot;https://en.wikipedia.org/wiki/Persona_(user_experience)&quot; target=&quot;_blank&quot;&gt;persona&lt;/a&gt; for them so that you can give them a sense of identity. It can also be difficult to write a user story because it covers such a broad range of technology.
+    &lt;/p&gt;
+    &lt;p&gt;
+       However, you can turn these user stories into tasks &lt;a href=&quot;https://en.wikipedia.org/wiki/User_story#Relationship_to_epics,_themes_and_initiatives&quot; target=&quot;_blank&quot;&gt;(see more)&lt;/a&gt;, which are user stories but are broken up into smaller tasks. Epics might look something like this if you're making a personal management software: 
+    &lt;/p&gt;
+    &lt;p style=&quot;background-color: #D9D9D6;&quot; class=&quot;p-1&quot;&gt;
+        &lt;b&gt;&lt;i&gt;As a customer, I'd like to manage my activity. In order for me to be fully productive.&lt;/i&gt;&lt;/b&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        It can be broken down into small user stories based on various customer activities. Prioritizing these individual user stories is simple. Prioritizing large user stories will be difficult and will cause problems for your team. Because there are unnecessary tasks that arise as a result of a system's unnecessary features.   
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;a href=&quot;https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/&quot; target=&quot;_blank&quot;&gt;Bill Wake&lt;/a&gt; suggests a mnemonic to help you remember the key elements of a user story. This is referred to as &lt;a href=&quot;https://en.wikipedia.org/wiki/INVEST_(mnemonic)&quot; target=&quot;_blank&quot;&gt;INVEST&lt;/a&gt;:
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;b&gt;I&lt;/b&gt;ndependent&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;N&lt;/b&gt;egotiable&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;V&lt;/b&gt;aluable&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;E&lt;/b&gt;stimatable&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;S&lt;/b&gt;mall&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;T&lt;/b&gt;estable&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/p&gt;
+    &lt;p style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;&quot;&gt;The user story must be &lt;i&gt;independent&lt;/i&gt; and not reliant on other user stories This means you can move it up or down in your &lt;a href=&quot;https://www.scrum.org/resources/what-is-a-product-backlog&quot; target=&quot;_blank&quot;&gt;backlog&lt;/a&gt; at any time. The user story must be also &lt;i&gt;negotiable&lt;/i&gt;. This means that the user's story can be changed or abandoned at any time.If your user story has a technical issue your team can either find another user story or discard it entirely. To make sense, your user story must also be &lt;i&gt;valuable&lt;/i&gt; .A user story that keeps you busy but adds little value to your team should be removed.
+    &lt;/p&gt;
+    &lt;p style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;&quot;&gt;Some teams assign a point value to a backlog item, which aids us in prioritizing those items. The low-cost item has a high priority, while the high-cost item has a low priority. This means that the user story is also &lt;i&gt;estimatable&lt;/i&gt; for this reason. It's difficult to prioritize a user story if you don't estimate it. If this isn't accurately estimated, there's a problem with the meaning of a user story. This means that if a user story's meaning is incorrect, it can not be implemented.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;i&gt;Small&lt;/i&gt; is another feature of a good user story. However, it is contingent on your team's rules. Other teams are competing in a &lt;a href=&quot;https://en.wikipedia.org/wiki/Scrum_Sprint&quot; target=&quot;_blank&quot;&gt;sprint&lt;/a&gt;, so the user story must be small for them to move easily. There are other teams that run in the same sprint as well, and it's fine with them if the user story is large as long as they're comfortable with it. The big user story is easy to overlook, resulting in wasted time and effort. The user story is also &lt;i&gt;testable&lt;/i&gt;, and that is the final INVEST requirement. There is no other way for the team to know if the user story is properly placed in the backlog if it is not testable. When a requirement is not testable, it may lack meaning, and this lack of meaning leads to a user story that can not be assigned value points.
+    &lt;/p&gt;
+    &lt;p style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;&quot;&gt;
+      These INVEST requirements also contradict one another. If you want a user story to be independent, for example, you can enlarge it, or make it smaller. However, according to INVEST, the user story should be small  When you're laying the groundwork for a system, it's huge at first. When a user story is large  the technical tasks are usually large as well You can also check the cost estimate to see if the big user story is affordable. You can make a &lt;a href=&quot;https://en.wikipedia.org/wiki/Minimum_viable_product&quot; target=&quot;_blank&quot;&gt;Minimum Viable Product&lt;/a&gt; if the cost is low, but MVP has low value. However  the MVP may be required to become &lt;a href=&quot;https://en.wikipedia.org/wiki/Business_as_usual_(business)&quot; target=&quot;_blank&quot;&gt;Business As Usual&lt;/a&gt; or BAU on occasion.
+    &lt;/p&gt;
+    &lt;p&gt;
+      When a user story is brand new, it frequently fails to meet INVEST's requirements. As a result, the new user story can be added to the planning process's idea section (&lt;a href=&quot;https://en.wikipedia.org/wiki/Kanban_board#/media/File:Sample_Kanban_Board.png&quot; target=&quot;_blank&quot;&gt;see more&lt;/a&gt;). Before adding a new user story to the backlog, the team checks to see if it has value or is estimatable. And when a new user story has already fulfilled the INVEST requirement. You must decide what steps you will take. Each team has its own way of defining a user story. Another group requires a lengthy definition of a user story. Others, on the other hand, simply want to be brief. It's difficult to find the right determinant level. When you have too much, your efforts may be wasted, and when you don't have enough, you may make mistakes.
+    &lt;/p&gt;
+    &lt;p style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;&quot;&gt;
+      As the project moves from the concept stage to the production stage, you'll need a higher level of detail. This means that there are other stages before the development stage, such as the information architecture stage. At each stage, you must have good communication skills. If there is a technical issue, a senior developer may be able to assist.
+    &lt;/p&gt;
+    &lt;p&gt;
+      The &lt;a href=&quot;https://en.wikipedia.org/wiki/User_story#Acceptance_criteria&quot; target=&quot;_blank&quot;&gt;acceptance criteria&lt;/a&gt; are the most common level of determination you'll need as a developer. &lt;a href=&quot;https://en.wikipedia.org/wiki/Behavior-driven_development&quot; target=&quot;_blank&quot;&gt;Behavior-driven development&lt;/a&gt; is one method that works well in this situation. Where you'll talk about establishing acceptance criteria. Written communication is less effective than verbal communication. It's crucial to ask and answer questions within your team if you want to make a good decision. In addition, some teams prefer verbal communication to written communication.
+    &lt;/p&gt;
+    &lt;h3&gt;Summary&lt;/h3&gt;
+    &lt;hr /&gt;
+    &lt;p&gt;
+      A user story should be removed if it keeps you busy but adds little value to your team. The user story must stand alone and not be dependent on other user stories. If you don't estimate a user story, it's difficult to prioritize it. The user story, according to INVEST, should be brief. It's easy to overlook the big user story, resulting in wasted time and effort. The user story is negotiable and can be changed or abandoned at any time. If a technical issue arises with your user story, your team can either find another one or discard it entirely. At any point in time, a good user story can be moved up or down in your backlog. You must prefer verbal communication to written communication if you are working in team.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/31/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/31/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">You'll need to decide what you're going to make once you've decided what product you need to make. What exactly is it? You must decide what you will do because this will serve as a means of communication with your team, allowing you to fully comprehend</summary></entry><entry><title type="html">The Basics of Software Requirement Gathering</title><link href="/2021/03/29/blog/" rel="alternate" type="text/html" title="The Basics of Software Requirement Gathering" /><published>2021-03-29T00:00:00+08:00</published><updated>2021-03-29T00:00:00+08:00</updated><id>/2021/03/29/blog</id><content type="html" xml:base="/2021/03/29/blog/">&lt;p&gt;&lt;img src=&quot;/assets/images/2021-3-29-blog-cover.webp&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;desktop__size &quot; style=&quot;text-align: center;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+    &lt;h2&gt;The Basics of Software Requirement Gathering&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mobile__size &quot; style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+    &lt;h2&gt;The Basics of Software Requirement Gathering&lt;/h2&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;small class=&quot;text-muted&quot;&gt;
+          &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+        &lt;/small&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        By Edison Pebojot
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        29 March 2021
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;
+        &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-color-scheme=&quot;no-preference: light; light: light; dark: light;&quot; data-size=&quot;large&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;small class=&quot;text-muted&quot;&gt;
+                &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+            &lt;/small&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            By Edison Pebojot
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center flex-grow-1&quot;&gt;
+            03/29/2021
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a class=&quot;github-button align-self-center&quot; href=&quot;https://github.com/workpebojot&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+  Each team's developer's role in gathering software requirements will be different. Someone is in charge of it in large groups. The &lt;i&gt;business analyst&lt;/i&gt;, &lt;i&gt;product owner&lt;/i&gt;, or &lt;i&gt;project manager&lt;/i&gt; is this person. It is essential that you put it on. However, you must collaborate with them in order to fully comprehend what they are doing. It's just a lot easier to work with if you understand what they're doing, as well as what your entire team is doing.
+&lt;/p&gt;
+&lt;p&gt;
+  This is critical, particularly for senior developers. Many people expect senior developers to attend meetings with &lt;a href=&quot;https://en.wikipedia.org/wiki/Project_stakeholder&quot; target=&quot;_blank&quot;&gt;stakeholders&lt;/a&gt; to figure out what they need and what product they need to meet that need. Stakeholder needs were posted on a whiteboard, like sticky notes, and tasks were set up for a developer to complete, which was done by just one person. However, in the twenty-first century, it is no longer done by a single person.
+&lt;/p&gt;
+&lt;p&gt;
+  This is why teams in the software industry hold &lt;a href=&quot;https://en.wikipedia.org/wiki/Workshop&quot; target=&quot;_blank&quot;&gt;workshops&lt;/a&gt;. Trainings and prototypes are displayed to the stakeholders in the workshop. These are the people who might be interested in your product, or stakeholders. If your prototype is about XBOX gaming software, your stakeholders may be XBOX gamers; if the prototype is about business management, your stakeholders may be a business team. Your supplier, and, more importantly, your end-user, can do it as well. This is done in order for the team to obtain useful information from stakeholders.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+&lt;p&gt;
+  The order in which your workshops are held is determined by the stakeholders involved. Instead of doing that solution and making a prototype right away, this is typically how you look at your problem and how you can solve it. You could argue that it is anti-&lt;a href=&quot;https://en.wikipedia.org/wiki/Agile_software_development&quot; target=&quot;_blank&quot;&gt;agile&lt;/a&gt;, but you know that in order to avoid making a mistake, you must first see and understand the problem. Your stakeholder can tell you about a problem in a workshop, which will help you figure out what your challenges are and what steps you and your team should take. This step is part of a larger process known as the &lt;a href=&quot;https://en.wikipedia.org/wiki/Design#Process&quot; target=&quot;_blank&quot;&gt;design process&lt;/a&gt; in software development. However, we will use a double diamond process (or model) in this article.
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;img src=&quot;https://user-images.githubusercontent.com/38276345/112810401-8f215380-90ad-11eb-8f10-1f746f5070fb.png&quot; class=&quot;img-fluid&quot; /&gt;
+  &lt;figcaption&gt;Figure 1. Double Diamond Model (&lt;a href=&quot;https://en.wikipedia.org/wiki/File:Double_diamond.png&quot; target=&quot;_blank&quot;&gt;source&lt;/a&gt;)&lt;/figcaption&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  You'll find a lot of problems in the double diamond model, as well as the most important ones. Then you'll come across a plethora of options before deciding on the most appropriate one. The stakeholder may understand the nature of their problem, but not the technology that will assist them in resolving it. Here, the double diamond workshops are beneficial because they not only provide us with the problem and solution, but they also know, as do we, which technology should be used.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+&lt;p&gt;
+  The &lt;a href=&quot;https://en.wikipedia.org/wiki/User_experience&quot; target=&quot;_blank&quot;&gt;User Experience&lt;/a&gt; is the other. The User Experience team conducts a requirement gathering process with users. A sort of laboratory where User Experience researchers collect data on the subject. And most of these researchers are psychologists. In the requirement gathering process, the User Experience practitioner is your best ally. A User Experience team is found in many successful businesses. These successful companies combine the Development and User Experience teams into a single process, allowing them to work together to gather user data. The UX team assists the development team, or the development team assists the UX team, removing the communication barrier that existed in early software development.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+&lt;p&gt;
+This type of requirement gathering is &lt;a href=&quot;https://en.wikipedia.org/wiki/Qualitative_research&quot; target=&quot;_blank&quot;&gt;qualitative research&lt;/a&gt;, which means they take abstract (theoretical) data, which usually includes user emotions. But, in addition to qualitative research, there is also &lt;a href=&quot;https://en.wikipedia.org/wiki/Quantitative_research&quot; target=&quot;_blank&quot;&gt;quantitative research&lt;/a&gt;. Quantitative research is only useful if the user is already familiar with your product, and this familiarity will help the stakeholder understand how effective it is. It's very easy to get quantitative data using your &lt;a href=&quot;https://en.wikipedia.org/wiki/Analytics&quot; target=&quot;_blank&quot;&gt;analytics&lt;/a&gt; systems if you have a real user on your product. You can also use &lt;a href=&quot;https://en.wikipedia.org/wiki/Continuous_delivery&quot; target=&quot;_blank&quot;&gt;continuous delivery&lt;/a&gt; with this quantitative data to release a new feature early.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: left;font-family:sans-serif;&quot;&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+&lt;p&gt;
+  Many people expect senior developers to attend meetings with stakeholders to figure out what they require. The stakeholder needs were written on a whiteboard at the time. However, in the twenty-first century, it is no longer done by a single person. Your stakeholder can tell you a problem in a workshop, which will help you figure out what your challenges are. This is done in order for the team to obtain useful information from stakeholders.
+&lt;/p&gt;
+&lt;p&gt;
+  Instead of doing that solution and making a prototype right away, you have to see the problem and understand it completely before coming up with a solution. You will find a lot of problems in the double diamonds model, and you will find the most important problems. Then you'll discover a plethora of options, including the most pressing one. The order in which your workshops are held is determined by the stakeholders involved.
+&lt;/p&gt;
+&lt;p&gt;
+  The User Experience team conducts a requirement gathering process with users. Many successful businesses combine their development and user experience teams into one process. Quantitative research is only useful if your product is already in use by the user. It's very easy to get quantitative data using your analytics systems if you have a real user on your product. You can also use continuous delivery with this quantitative data to release a new feature early. In the requirement gathering process, the User Experience practitioner is your best ally.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/29/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/29/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">The role of the developer in software requirement gathering will vary with each team. Large teams put someone in charge of it. This is the business analyst, the product owner, or the project manager.</summary></entry><entry><title type="html">Muon: Software Package Directory</title><link href="/2021/03/20/project/" rel="alternate" type="text/html" title="Muon: Software Package Directory" /><published>2021-03-20T00:00:00+08:00</published><updated>2021-03-20T00:00:00+08:00</updated><id>/2021/03/20/project</id><content type="html" xml:base="/2021/03/20/project/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/workpebojot/Muon/master/.erb/img/muon-banner.png&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;muon-a-software-project-manage-tool&quot;&gt;Muon: A Software Project Manage Tool&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Muon/subscription&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Watch workpebojot/Vacuum on GitHub&quot;&gt;
+        Watch
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Muon/fork&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Fork workpebojot/Vacuum on GitHub&quot;&gt;
+        Fork
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Muon&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Muon&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+  The muon is a software package directory tool. It helps find packages, modules, or libraries you can use for you software project.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;install&quot;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;First, clone the repo via git and install dependencies:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git clone &lt;span class=&quot;nt&quot;&gt;--depth&lt;/span&gt; 1 &lt;span class=&quot;nt&quot;&gt;--single-branch&lt;/span&gt; https://github.com/workpebojot/Muon.git your-project-name
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;your-project-name
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;npx yarn
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;starting-development&quot;&gt;Starting Development&lt;/h2&gt;
+
+&lt;p&gt;Start the app in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;dev&lt;/code&gt; environment:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;npx yarn start
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;packaging-for-production&quot;&gt;Packaging for Production&lt;/h2&gt;
+
+&lt;p&gt;To package apps for the local platform:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;npx yarn package
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://opensource.org/licenses/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/License-MIT%20-yellow.svg&quot; alt=&quot;GPLv3 License&quot; /&gt;&lt;/a&gt; © 2021&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/20/project/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+          &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/20/project/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">The muon is a software package directory tool. It helps you to find software packages from different platform and programming languages. A software package is a software that has been built from source with one of the available package management systems. The package gives the compiled code.</summary></entry><entry><title type="html">Software Ethics to me (or to you)</title><link href="/2021/03/03/blog/" rel="alternate" type="text/html" title="Software Ethics to me (or to you)" /><published>2021-03-03T00:00:00+08:00</published><updated>2021-03-03T00:00:00+08:00</updated><id>/2021/03/03/blog</id><content type="html" xml:base="/2021/03/03/blog/">&lt;p&gt;&lt;img src=&quot;/assets/images/2021.03.03.blog.cover.webp&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;desktop__size &quot; style=&quot;text-align: center;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+    &lt;h2&gt;Software Ethics to me (or to you)&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mobile__size &quot; style=&quot;text-align: justify;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+    &lt;h2&gt;Software Ethics to me (or to you)&lt;/h2&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;small class=&quot;text-muted&quot;&gt;
+          &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+        &lt;/small&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        By Edison Pebojot
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        03 March 2021
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;
+        &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-color-scheme=&quot;no-preference: light; light: light; dark: light;&quot; data-size=&quot;large&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;small class=&quot;text-muted&quot;&gt;
+                &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+            &lt;/small&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            By Edison Pebojot
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center flex-grow-1&quot;&gt;
+            03/03/2021
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a class=&quot;github-button align-self-center&quot; href=&quot;https://github.com/workpebojot&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+Software engineering as a discipline has a tentative perception of engineering ethics. Rules of ethics are incorporated into the professional associations that serve professionals of most engineering fields. The advantages and pitfalls of these professional associations can be argued, but the general consensus tends to be that they add little meaning and that credentials carry little weight among employers. In certain nations, the word &lt;i&gt;Engineer&lt;/i&gt; is a reserved term that can only be used for eligible persons. This is to preserve the engineer's integrity as a trustworthy professional.
+&lt;/p&gt;
+&lt;p&gt;
+A professional should be someone you can trust, and this is done by including it in the professional's preparation, one example is the &lt;b&gt;Hippocratic oath&lt;/b&gt; for medical practitioners or by regulatory or industry-led registration and certifications. Certification is generally acknowledged in the software development industry. This is a risky situation because we are not self-regulating, because there are no competent associations (which have their own ethical codes. One characteristic that ethics have in common is that people who work in these fields seek to do no harm.
+&lt;/p&gt;
+&lt;p&gt;
+There have been several attempts to remedy these vulnerabilities, the most popular of which are the &lt;b&gt;Geek Feminism&lt;/b&gt; and &lt;b&gt;Diversity&lt;/b&gt; campaigns, but these only address a few facets of ethical behavior. The &lt;b&gt;Code Craftsmanship&lt;/b&gt; campaign focuses on programming ethics, but it does not discuss the full extent of the issue. Ethics is an integral aspect of society, and it functions well where it is practiced by consensus rather than law. So, what is a software developer's ethical code? It's the same ethical code we all follow as people in society: &lt;i&gt;We should do no harm, or at the very least mitigate harm.&lt;/i&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+Computers, especially mobile phones, have developed into personal devices that store data about users that they do not want to share with others. As a professional, you are supposed to protect your users' privacy, and this knowledge may also be helpful to an organization's decisions on how to create a better product or marketing strategy. Just because you can gather data doesn't mean you should. The &lt;b&gt;Big Data&lt;/b&gt; craze is based around the concept of collecting as much data as possible and evaluating the findings to see if some patterns appear. However, collecting more oriented data is easier to interpret. The EU's General Data Privacy Regulation have prompted improvements in corporate practices. 
+&lt;/p&gt;
+&lt;p&gt;
+You must also think like an attacker while collecting data. Giving users a random ID that isn't related to their real identification is one way to anonymize information. With enough data points, it might be possible too to connect this to a real user. In 2006, AOL made available the search logs of their search engine customers, who were connected to anonymous IDs. Journalists were able to positively identify the real users using data points. True anonymity would suggest that there are no data points in the system. For others, privacy is expected, while for others, it is appropriate. One example is the relationship between the state and its people. The NHS expected that care.data program would not only strengthen individual treatment, but also allow researchers to track national health patterns and potentially find new connections between various health conditions. But to the people, the privacy is appropriate. But, it was also impossible to render a cost-benefit comparison in this situation.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+Developers must avoid functionality that have detrimental implications for the people who use the softwares we make because it may increase their cognitive workload. There are some categories of softwares on which developers may make an ethical decision. A facial recognition software, for example, may assist a social media user in &lt;i&gt;easily&lt;/i&gt; marking images, but if used by a totalitarian regime, it may be used to persecute people. There is no correct answer.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+Energy usage is a visible effect IT has on the environment, but it sounds abstract from a developer's viewpoint, particularly as the world transitions to the cloud. When businesses run their own data centres, they could see how much electricity they were consuming. This influence is impossible to see in the cloud.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+Via open source, tech developers have a distinct way of communicating. Open source work is performed on a voluntary basis and is subject to licensing. Playing politics or intimidation are also unethical in any occupation, but they are far too prevalent. It is appropriate to use an open source feature as a library within a commercial product, but all improvements made to the library must be restored to the original project so that everyone will benefit.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+Ethics is a vital feature in most technical fields, but it is seldom addressed in software development. The following are four ethical issues that you may encounter: Privacy, which is being legislated as a consequence of the profession's ethical failings; cognitive workload, where we can add harmful side effects on our userbase as we rely exclusively on other goals; energy conservation, which can seem hypothetical but has a clear real-world effect; and confidence, both within our profession and for those with whom we operate.
+&lt;/p&gt;
+&lt;p&gt;
+There is no one-size-fits-all solution to ethics; rather, it may be arbitrary. Nonetheless, that is something we can take into consideration when developing structures in order to create a sustainable environment for everyone.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/03/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2021/03/03/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">Software engineering as a discipline has a tentative perception of engineering ethics. Ethics and rules of ethics are incorporated into the technical associations that serve professionals of most engineering fields.</summary></entry><entry><title type="html">An Android Platform for Filipino Employment (Beta Program)</title><link href="/2020/12/28/blog/" rel="alternate" type="text/html" title="An Android Platform for Filipino Employment (Beta Program)" /><published>2020-12-28T00:00:00+08:00</published><updated>2020-12-28T00:00:00+08:00</updated><id>/2020/12/28/blog</id><content type="html" xml:base="/2020/12/28/blog/">&lt;p&gt;&lt;img src=&quot;/assets/images/2020.12.28.blog.cover.webp&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;desktop__size &quot; style=&quot;text-align: center;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+    &lt;h2&gt;An Android Platform for Filipino Employment (Beta Program)&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mobile__size&quot; style=&quot;text-align: justify;word-break: break-all;font-family:sans-serif;word-spacing: 0px;&quot;&gt;
+    &lt;h2&gt;An Android Platform for Filipino Employment (Beta Program)&lt;/h2&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;small class=&quot;text-muted&quot;&gt;
+          &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+        &lt;/small&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        By Edison Pebojot
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        03 March 2021
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;
+        &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+      &lt;/div&gt;
+      &amp;nbsp;
+      &lt;div class=&quot;align-self-center&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-color-scheme=&quot;no-preference: light; light: light; dark: light;&quot; data-size=&quot;large&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;small class=&quot;text-muted&quot;&gt;
+                &lt;img src=&quot;/assets/images/2x2.webp&quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;img-fluid rounded-circle&quot; alt=&quot;Edison Pebojot&quot; /&gt;
+            &lt;/small&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            By Edison Pebojot
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center flex-grow-1&quot;&gt;
+            03/03/2021
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/workpebojot?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-follow-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot;&gt;Follow @workpebojot&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a class=&quot;github-button align-self-center&quot; href=&quot;https://github.com/workpebojot&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+According to Renz &amp;amp; Katarina (2020), “Students and unemployed individuals are found to be highly vulnerable to COVID stress and its implications. Employed participants reported lower amount of COVID stress. It is possible that the employed participants were not required to report to work yet (work from home) which acted as a buffer against pandemic stress” (p. 94). The Philippines' unemployment rate for April surges to 17.7%, the highest ever on record, as the coronavirus pandemic wipes out jobs. Unemployment soared to 17.7% in April 2020, equivalent to around 7.3 million jobless Filipinos amid the coronavirus pandemic, the Philippine Statistics Authority (PSA) announced on Friday, June 5 (Ralf, 2020), due to this huge impact on Filipinos, the researcher decided to find ways to solve this problem with the help of technology to provide employment to the unemployed Filipinos, and to reduce the problem of every Filipino family.
+&lt;/p&gt;
+&lt;p&gt;
+One such ways is the Internet. The Internet is a useful tool for identifying potential employment opportunities like an Electronic Mail (E-Mail) notification. The E-mail notiﬁcations identiﬁed a number of vacancies in the 6-month period; 42% of all those advertised. The vast majority of descriptions and person speciﬁcations were available for downloading (Karen, 2007).
+The researcher conducted a research about low Filipino employment rate and how to solve it. The researcher developed an android application to solve the problem. The android application, namely, Vacuum Cleaner application, is an application to develop the Household Chores Service Platform for Filipinos where they can deliver jobs and services from or to those who have jobs or have lost their job due to pandemic. The Android program allows Filipinos to provide work and services.
+&lt;/p&gt;
+&lt;p&gt;
+More specifically, the android program has a small scope and conducted only in a small number of Barangay. It was developed at the end of November and it started its consecutive increments during December. The subject of the research is the local people of the Barangay in Dingalan, Aurora. It was developed because the pandemic was widely disruptive to the economy, with most sectors and workforces adversely affected. The COVID-19 pandemic has had far-reaching economic consequences beyond the spread of the disease itself and efforts to quarantine it. As the SARS-CoV-2 virus has spread around the globe, concerns have shifted from supply-side manufacturing issues to decreased business in the services sector. The pandemic caused the largest global recession in history, with more than a third of the global population at the time being placed on lockdown
+&lt;/p&gt;
+&lt;p&gt;
+It was done using a set of development technology like Android Studio, Linux Development Environment, Aspire ES1-432 Windows 10 Professional laptop with 1.10 GHz (Gigahertz), android smartphone Samsung SM-G532/DS version 6.1.0 Marshmallow to use and test the application with 1.5GB Random Access Memory (RAM).
+&lt;/p&gt;
+&lt;p&gt;
+The Vacuum application was created to solve the major problems faced by the Filipino people. First of all, unemployment, Vacuum application is an android application where Filipinos have the ability to share or find work, it is easier than other platforms that currently exist today like JobStreet because first, you do not need a diploma to find a job. This is because it is an obstacle for some poor Filipinos in life. The application is simplified, facilitating job sharing where others have the ability to enter into a job without difficulty
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+    &lt;h3&gt;Project Contexts&lt;/h3&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+The Vacuum application was created to solve the major problems faced by the Filipino people. First of all, unemployment, Vacuum application is an android application where Filipinos have the ability to share or find work, it is easier than other platforms that currently exist today like JobStreet because first, you do not need a diploma to find a job. This is because it is an obstacle for some poor Filipinos in life. The application is simplified, facilitating job sharing where others have the ability to enter into a job without difficulty.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+    &lt;h3&gt;Purpose and Description&lt;/h3&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+The purpose of this research is to define the issue about Filipino unemployment and to quantify solution based on segregate abstraction from the subjects. The nature of the topic dictates the use of document requirement to be filled by the subject. The Philippine Statistics Authority provides evidence that employment is an essential component of both the improvement of Filipino unemployment conditions and the positive development of a society. More extensive and enduring support would likely have allowed unemployed Filipinos the opportunity to further expand their career.
+With the coronavirus pandemic wiping out workers, the Philippines' unemployment rate for April soared to 17.7 percent, the highest ever reported. In April 2020, unemployment increased to 17.7 percent, corresponding to around 7.3 million unemployed Filipinos in the wake of the coronavirus pandemic, the Philippine Statistics Authority (PSA) reported on Friday, June 5 (Ralf, 2020). With these numbers, if we do not act early, we may be assured that there is a huge economic loss.
+
+According Mayen Jaymalin (2020), “A labor group fears a worse unemployment situation in the country this year, unless the government enforces the necessary intervention measures. Federation of Free Workers (FFW) president Sonny Matula warned that more workers will lose their jobs than last year if the government will not fund job facilitation programs” (para.). Matula said that several small and medium sized businesses (SMEs), which form the bulk of businesses nationally, wouldn't be able to sustain the slump in industry due to the epidemic without state assistance.
+
+Support from the government is extremely difficult to receive and many still require funds such as vaccine procurement funds. The government is still negotiating for the vaccine supply (Jamaine, 2020).
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;h3&gt;Recommendation&lt;/h3&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+&lt;p&gt;
+The researcher demonstrates his research concerns and theories in this section, the importance of the analysis, the aims and research issues. The researcher further proposed that more study be performed on the grounds of the research concerns. The topic has research issues that puzzled the researcher and a theory to conceptualize the approximation of the conclusions of the analysis. The information provided by the software application was accurate on the basis of the main findings of the research study, since the software architecture was developed based on the Principle of Least Astonishment, a system feature that behaves in a manner that is assumed by most users to behave.
+&lt;/p&gt;
+&lt;p&gt;
+Privacy, however, is the prime consideration, since another actor will still violate the privacy of the actor. Fortunately, the proposed software application did not violate the data gathering and data processing regulation or legislation because the proposed software application prevents the researcher from gathering suspicious data and processing data in a skeptic way, which is the most important aspect of privacy, all in all. The cognitive load was also the biggest problem. The researcher, however, restricts actor interactions to the system component, which then decreases their cognitive load and increases the usability of the software application.
+&lt;/p&gt;
+&lt;p&gt;
+The pandemic has disrupted the economy deeply, negatively impacting most industries and workers. By developing a smartphone application using software development resources such as Android Studio, Visual Studio, and the Linux operating system, the researcher solved the research issue. The researcher tested the application using compatibility and conformance checking based on the quality requirements of the Android Core App. The research study values close collaboration between Filipino employees, helping displaced Filipino employees and their families, fostering the welfare of Filipino employees and their families, coordinating and integrating numerous Filipino employees and unemployed workers, and supporting the Filipino unemployed to minimize the expense of finding a job by distributing them.
+&lt;/p&gt;
+&lt;p&gt;
+The researcher proposed more studies on the unemployment rate or, more specifically, the Filipino unemployment rate. One such approach is to perform an investigation, an observation, or other method of data collection. And the researcher mush breaks it down into tasks on the basis of the obtained evidence or information that can make the software development process much easier to execute. To validate the application, the researcher should establish the architecture and design, development, and test case or criteria. To evaluate the application in real time and repeat the software development cycles after the released, monitoring tools can then be used. 
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: justify;word-break: keep-all;font-family:sans-serif;&quot;&gt;
+  &lt;h3&gt;Screenshot&lt;/h3&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956721-a3384080-4513-11eb-9fd2-fda8b70fbaf7.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956726-a5020400-4513-11eb-86f4-f131b6089dd6.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956727-a59a9a80-4513-11eb-9173-c29b3f598e7f.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956729-a6cbc780-4513-11eb-8e75-7314b038d302.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956730-a7645e00-4513-11eb-90bb-12c6e6416753.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956734-a8958b00-4513-11eb-9b4f-29a58e4d8184.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956737-a92e2180-4513-11eb-9dd9-768015b40494.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956740-a9c6b800-4513-11eb-965f-1a5ff378529f.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956741-aa5f4e80-4513-11eb-8b32-dcca9a024c35.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956743-ab907b80-4513-11eb-9211-14bd18017e1f.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956745-ac291200-4513-11eb-9e3b-358a692ac412.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956747-acc1a880-4513-11eb-93b8-90bca63d4b7a.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956752-adf2d580-4513-11eb-9d9a-132bfe542b59.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956753-ae8b6c00-4513-11eb-9482-4fb83e1959ef.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956755-af240280-4513-11eb-8c2b-fef19e0fb330.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956758-afbc9900-4513-11eb-9cd6-76c61c92581b.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956760-b0edc600-4513-11eb-96ce-09741b4511f5.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956763-b1865c80-4513-11eb-9914-8f56076171db.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956765-b21ef300-4513-11eb-8f2f-0ad0e43e7103.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vacuum&quot; style=&quot;font-family:sans-serif;&quot;&gt;Download on Google Play&lt;/a&gt; (Redirect to Google Play)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/12/28/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/12/28/blog/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">The proposed Vacuum Cleaner project is to develop the Household Chores Service Platform for everyone where they can deliver jobs and services from or to those who have jobs or have lost their job due to pandemic. The Android program allows everyone to provide work and services.</summary></entry><entry><title type="html">www.pebojot.com</title><link href="/2020/12/25/project/" rel="alternate" type="text/html" title="www.pebojot.com" /><published>2020-12-25T00:00:00+08:00</published><updated>2020-12-25T00:00:00+08:00</updated><id>/2020/12/25/project</id><content type="html" xml:base="/2020/12/25/project/">&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/38276345/113077296-788d1080-9203-11eb-82c0-93c385469856.png&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;wwwpebojotcom&quot;&gt;www.pebojot.com&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/www.pebojot.com/subscription&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Watch workpebojot/Vacuum on GitHub&quot;&gt;
+        Watch
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/www.pebojot.com/fork&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Fork workpebojot/Vacuum on GitHub&quot;&gt;
+        Fork
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/www.pebojot.com&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/www.pebojot.com&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In March of 2021, Edison Pebojot launched the www.pebojot.com production version. It has a homepage that provides an overview of the entire page. There are three tabs: blog, event, and project. There is also a about tag if you want to learn more about Edison Pebojot.&lt;/p&gt;
+
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;Edison Pebojot’s goal is to demonstrate that his relevant activity is in the software development industry. It encapsulates the most crucial information.&lt;/p&gt;
+
+&lt;h2 id=&quot;screenshot&quot;&gt;Screenshot&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/38276345/113078688-2dc0c800-9206-11eb-846f-33ff5bc6ecc5.jpeg&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;technology-and-framework-used&quot;&gt;Technology and Framework used&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Jekyll&lt;/li&gt;
+  &lt;li&gt;Ruby Programming Language&lt;/li&gt;
+  &lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;contribute&quot;&gt;Contribute&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;The project’s development version, on the other hand, is private. If you’d like to help, please contact me at pebojot.edison.work@outlook.com.&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://opensource.org/licenses/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/License-GPL%20v3-yellow.svg&quot; alt=&quot;GPLv3 License&quot; /&gt;&lt;/a&gt; © 2021&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/12/25/project/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+          &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/12/25/project/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">In March of 2021, Edison Pebojot launched the www.pebojot.com production version. It has a homepage that provides an overview of the entire page. There are three tabs: blog, event, and project. There is also a about tag if you want to learn more about Edison Pebojot.</summary></entry><entry><title type="html">The Vacuum Project</title><link href="/2020/10/28/project/" rel="alternate" type="text/html" title="The Vacuum Project" /><published>2020-10-28T00:00:00+08:00</published><updated>2020-10-28T00:00:00+08:00</updated><id>/2020/10/28/project</id><content type="html" xml:base="/2020/10/28/project/">&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/38276345/113085789-14724880-9213-11eb-93f7-187db9688673.png&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;the-vacuum-project&quot;&gt;The Vacuum Project&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Vacuum/subscription&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Watch workpebojot/Vacuum on GitHub&quot;&gt;
+        Watch
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Vacuum/fork&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Fork workpebojot/Vacuum on GitHub&quot;&gt;
+        Fork
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Vacuum&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/Vacuum&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The proposed &lt;strong&gt;Vacuum Cleaner&lt;/strong&gt; project is to develop the Household Chores Service Platform for everyone where they can deliver jobs and services from or to those who have jobs or have lost their job due to pandemic. The Android program allows everyone to provide work and services.&lt;/p&gt;
+
+&lt;p&gt;The pandemic was widely disruptive to the economy, with most sectors and workforces adversely affected. The COVID-19 pandemic has had far-reaching economic consequences beyond the spread of the disease itself and efforts to quarantine it. As the SARS-CoV-2 virus has spread around the globe, concerns have shifted from supply-side manufacturing issues to decreased business in the services sector. The pandemic caused the largest global recession in history, with more than a third of the global population at the time being placed on lockdown.&lt;/p&gt;
+
+&lt;h2 id=&quot;motivation-origination&quot;&gt;Motivation (Origination)&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;The &lt;strong&gt;Vacuum Cleaner&lt;/strong&gt; project is searching for a way to solve the economic crisis by supplying everyone with the opportunity to provide jobs and services. The Vacuum Cleaner for Android Platform can build employment and services and encourage close cooperation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To foster nationalism among the everyone as being responsible for its own resources&lt;/li&gt;
+  &lt;li&gt;Support the unemployed people to reduce the transportation cost of seeking a career&lt;/li&gt;
+  &lt;li&gt;Include the correct searched job&lt;/li&gt;
+  &lt;li&gt;Organize and combine the different workers and jobless people in terms of geographical position&lt;/li&gt;
+  &lt;li&gt;Support the health of employees&lt;/li&gt;
+  &lt;li&gt;Aid for displaced employees and their families&lt;/li&gt;
+  &lt;li&gt;Promote cooperation between workers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;screenshot&quot;&gt;Screenshot&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956721-a3384080-4513-11eb-9fd2-fda8b70fbaf7.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956726-a5020400-4513-11eb-86f4-f131b6089dd6.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956727-a59a9a80-4513-11eb-9173-c29b3f598e7f.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956729-a6cbc780-4513-11eb-8e75-7314b038d302.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956730-a7645e00-4513-11eb-90bb-12c6e6416753.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956734-a8958b00-4513-11eb-9b4f-29a58e4d8184.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956737-a92e2180-4513-11eb-9dd9-768015b40494.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956740-a9c6b800-4513-11eb-965f-1a5ff378529f.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956741-aa5f4e80-4513-11eb-8b32-dcca9a024c35.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956743-ab907b80-4513-11eb-9211-14bd18017e1f.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956745-ac291200-4513-11eb-9e3b-358a692ac412.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956747-acc1a880-4513-11eb-93b8-90bca63d4b7a.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956752-adf2d580-4513-11eb-9d9a-132bfe542b59.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956753-ae8b6c00-4513-11eb-9482-4fb83e1959ef.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956755-af240280-4513-11eb-8c2b-fef19e0fb330.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956758-afbc9900-4513-11eb-9cd6-76c61c92581b.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956760-b0edc600-4513-11eb-96ce-09741b4511f5.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956763-b1865c80-4513-11eb-9914-8f56076171db.png&quot; /&gt;
+    &lt;img width=&quot;110&quot; height=&quot;200&quot; src=&quot;https://user-images.githubusercontent.com/38276345/102956765-b21ef300-4513-11eb-8f2f-0ad0e43e7103.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;technology-and-framework-used&quot;&gt;Technology and Framework used&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;React Native Framework&lt;/li&gt;
+  &lt;li&gt;Java, JavaScript, Objective-C and GitHub CLI&lt;/li&gt;
+  &lt;li&gt;NPM, NPM Scripts, Nativebase, Android Native Library&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code-example&quot;&gt;Code Example&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;src/abstract files&lt;/code&gt;, you can add your any dependencies there needed by your application. In short, we can illustrate it in simple graph:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/assets/images/sample.code.2020.10.28.project.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And we can then express them in code:&lt;/p&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Dependencies&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;default&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Dependency&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Components&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Success!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Abstract&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;default&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Dependency&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;./helper/method/dependency&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Or you can also write it like this to avoid bugs:&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Dependency&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;./helper/method/dependecy&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Dependency&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Learn more at &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export&quot;&gt;MDN Mozilla Export Guideline&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Component&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Abstract&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;./src/abstract&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;default&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Dependecies&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Components&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;Abstract&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Output &quot;Success!&quot;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;git clone https://github.com/workpebojot/Vacuum.git&lt;/li&gt;
+  &lt;li&gt;cd Vacuum&lt;/li&gt;
+  &lt;li&gt;git init&lt;/li&gt;
+  &lt;li&gt;npm install&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;how-to-use&quot;&gt;How to use&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;In order to use this app, you have two options, you can use either use AVD or ADB support. To setup AVD, you can head to AVD Manual Guide at Android Developer Website: &lt;a href=&quot;https://developer.android.com/studio/run/managing-avds.html&quot;&gt;Create New AVD&lt;/a&gt;. To setup ADB, plug in your devices and run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;react-native run-android&lt;/code&gt;. However, since this app is still new, I’m not still sure if &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;react-native run-ios&lt;/code&gt; will run correctly. But it will sure it can be configured for right patching.&lt;/p&gt;
+
+&lt;h2 id=&quot;contribute&quot;&gt;Contribute&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;I would like to invite everyone interested to expand on this simple project. If you are interested, kindly hit &lt;a href=&quot;https://github.com/workpebojot/Vacuum/blob/master/CONTRIBUTING.md&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;https://opensource.org/licenses/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/License-GPL%20v3-yellow.svg&quot; alt=&quot;GPLv3 License&quot; /&gt;&lt;/a&gt; © 2020&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/10/28/project/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/10/28/project/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">The proposed Vacuum Cleaner project is to develop the Household Chores Service Platform for Filipinos where they can deliver jobs and services from or to those who have jobs or have lost their job. The Android program allows fellow Filipinos to provide work and services.</summary></entry><entry><title type="html">Elliptic Curve Cryptography and Quantum Computing: The Mathematics</title><link href="/2020/08/28/event/" rel="alternate" type="text/html" title="Elliptic Curve Cryptography and Quantum Computing: The Mathematics" /><published>2020-08-28T00:00:00+08:00</published><updated>2020-08-28T00:00:00+08:00</updated><id>/2020/08/28/event</id><content type="html" xml:base="/2020/08/28/event/">&lt;p&gt;&lt;img src=&quot;/assets/images/2020.8.28.event.cover.webp&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;28 FEBRUARY 2020 7PM-9PM UTC+8&lt;/b&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: left&quot;&gt;
+    &lt;h1&gt;Elliptic Curve Cryptography and Quantum Computing: The Mathematics&lt;/h1&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;Quantum Computing · Computing · Computer Science&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align: left&quot;&gt;
+    &lt;h3&gt;Details&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/group.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        15 people responsed
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/flag.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Event by Quantum Computing Philippines
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/web.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Website: https://bit.ly/3cAArSx (Meetup)
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/ticket.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Ticket: N/A
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/information.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Public Event
+    &lt;/p&gt;
+    &lt;p&gt;
+        Having presented the motivation to study Quantum Computing to crack Elliptic Curve Cryptography, in this second session (and succeeding sessions) we will give an introduction of what Quantum Computing is and the mathematics required to understand it:
+        
+- Complex Numbers
+- Hilbert Spaces
+- Bracket Notation
+- Qubits
+- Bloch Sphere (Reimann Sphere )
+- Superposition
+- Entanglement
+- Measurement
+- Probability Theory
+- Eigenvectors
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/08/28/event/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2020/08/28/event/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">Having presented the motivation to study Quantum Computing to crack Elliptic Curve Cryptography, in this second session (and succeeding sessions) we will give an introduction of what Quantum Computing is and the mathematics required to understand it</summary></entry><entry><title type="html">Braindotnet</title><link href="/2018/10/12/project/" rel="alternate" type="text/html" title="Braindotnet" /><published>2018-10-12T00:00:00+08:00</published><updated>2018-10-12T00:00:00+08:00</updated><id>/2018/10/12/project</id><content type="html" xml:base="/2018/10/12/project/">&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/38276345/113077885-9d35b800-9204-11eb-8c60-9c8ddae1cb19.gif&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;braindotnet&quot;&gt;Braindotnet&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/braindotnet/subscription&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Watch workpebojot/Vacuum on GitHub&quot;&gt;
+        Watch
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/braindotnet/fork&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Fork workpebojot/Vacuum on GitHub&quot;&gt;
+        Fork
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/braindotnet&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+  &lt;div class=&quot;d-flex justify-content-start&quot;&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+      &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot/braindotnet&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Star workpebojot/Vacuum on GitHub&quot;&gt;
+        Star
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;p-1&quot;&gt;
+        &lt;a class=&quot;github-button&quot; href=&quot;https://github.com/workpebojot&quot; data-size=&quot;large&quot; data-show-count=&quot;true&quot; aria-label=&quot;Follow @workpebojot on GitHub&quot;&gt;Follow&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Developed during &lt;a href=&quot;https://www.github.com/workpebojot/&quot;&gt;Edison Pebojot&lt;/a&gt;’s freshman year at &lt;a href=&quot;https://en.wikipedia.org/wiki/AMA_Computer_University&quot;&gt;AMA Computer University&lt;/a&gt;, Braindotnet is a PWA social networking application. It was specifically created in the year 2018. The old website is still up and running, and you can find it &lt;a href=&quot;https://braindotnet.web.app/&quot;&gt;here&lt;/a&gt;. If you are on a desktop, press &lt;strong&gt;F12&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;The goal is to create a tool for students to communicate with one another. I originally intended it to be a quiz app for students, but it evolved into a social networking app.&lt;/p&gt;
+
+&lt;h2 id=&quot;screenshot&quot;&gt;Screenshot&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/38276345/113074331-70ca6d80-91fd-11eb-890f-889a3e32f417.png&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;technology-and-framework-used&quot;&gt;Technology and Framework used&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;Onsen UI&lt;/li&gt;
+  &lt;li&gt;JavaScript&lt;/li&gt;
+  &lt;li&gt;Node&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code-example&quot;&gt;Code Example&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;The content will be initialized at the BODY id:&lt;/p&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;index.hmtl &amp;gt; #BODY
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$ git clone [URL.git]&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$ cd braindotnet&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$ git init&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$ npm install&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;how-to-used&quot;&gt;How to used&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;As you may know, I was a freshman in college at the time and am now a graduate student. I had completely forgotten how this project works. What I recall is that you’ll need a firebase CLI and that you’ll use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;firebase init&lt;/code&gt; to create a new project. That’s all there is to it; now you can code whatever you want. Then, using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;firebase deploy&lt;/code&gt;, you can upload your production folder to firebase hosting.&lt;/p&gt;
+
+&lt;h2 id=&quot;contribute&quot;&gt;Contribute&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;So if you want to contribute, feel free to open a PR for a review. Thanks! 😉&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;https://opensource.org/licenses/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/License-GPL%20v3-yellow.svg&quot; alt=&quot;GPLv3 License&quot; /&gt;&lt;/a&gt; © 2018&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2018/10/12/project/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+          &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2018/10/12/project/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">Braindotnet is a PWA social networking application developed during Edison Pebojot's freshman year at AMA Computer University. Specifically, it was developed in the year 2018. The goal is to create a tool for students to communicate with one another.</summary></entry><entry><title type="html">Hackathon Event: AMA Computer University</title><link href="/2018/09/10/event/" rel="alternate" type="text/html" title="Hackathon Event: AMA Computer University" /><published>2018-09-10T00:00:00+08:00</published><updated>2018-09-10T00:00:00+08:00</updated><id>/2018/09/10/event</id><content type="html" xml:base="/2018/09/10/event/">&lt;p&gt;&lt;img src=&quot;/assets/images/2018.09.10.event.cover.webp&quot; class=&quot;rounded img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;10 SEPTEMBER 2018 4AM UTC+8&lt;/b&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: left&quot;&gt;
+    &lt;h1&gt;AMA Computer University Hackathon Event&lt;/h1&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;University · College · Technology&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div style=&quot;text-align: left&quot;&gt;
+    &lt;h3&gt;Details&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/group.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        256 people responsed
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/flag.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Event by AMA Computer University
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/web.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Website: N/A
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/ticket.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Ticket: N/A
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src=&quot;/assets/images/information.webp&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+        Private Event
+    &lt;/p&gt;
+    &lt;p&gt;
+    This was one of the most important events at AMA Computer College. It includes a number of activities ranging from computing to performing. One of my deans was there, and it was a fantastic experience.
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;desktop__size &quot;&gt;
+  &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2018/09/10/event/&quot; data-layout=&quot;button&quot; data-size=&quot;large&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &amp;nbsp;
+    &lt;div class=&quot;align-self-center&quot;&gt;
+      &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile__size&quot;&gt;
+    &lt;div class=&quot;d-flex align-items-center justify-content-start&quot;&gt;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button align-self-center&quot; data-show-screen-name=&quot;false&quot; data-show-count=&quot;false&quot; data-via=&quot;workpebojot&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+        &lt;/div&gt;
+        &amp;nbsp;
+        &lt;div class=&quot;align-self-center&quot;&gt;
+            &lt;div class=&quot;fb-share-button align-self-center&quot; style=&quot;vertical-align: super;top:-2px&quot; data-href=&quot;https://www.pebojot.com/2018/09/10/event/&quot; data-layout=&quot;button&quot; data-size=&quot;small&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;Share&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Pebojot</name></author><summary type="html">10 SEPTEMBER 2018 4AM UTC+8 AMA Computer University Hackathon Event University · College · Technology Details 256 people responsed Event by AMA Computer University Website: N/A Ticket: N/A Private Event This was one of the most important events at AMA Computer College. It includes a number of activities ranging from computing to performing. One of my deans was there, and it was a fantastic experience. Share &amp;nbsp; Tweet Tweet &amp;nbsp; Share</summary></entry></feed>
